@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=2E8B57&center=true&vCenter=true&width=1580&lines=ARK+SURVIVAL+EVOLVED+HACK+2026;ESP+•+AIMBOT+•+GOD;DOMINATE+THE+ISLAND" alt="ARK Survival Evolved Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d53475a-0c9e-485c-9163-3469ce038822" />
 </div>
 
 <br/>
